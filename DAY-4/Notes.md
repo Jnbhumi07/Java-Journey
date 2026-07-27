@@ -1,8 +1,5 @@
 # ☕ Day 4 - Operators
 
-## 📅 Date
-(Write today's date)
-
 ---
 
 # 📚 Topics Learned
