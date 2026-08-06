@@ -172,6 +172,18 @@ Arrays               ░░░░░░░░░░ 0%
 Currently learning **Java Fundamentals** with a strong focus on writing clean code, understanding programming logic, and maintaining consistency through daily GitHub commits.
 
 
+### ✅ Day 7
+- Introduction to Methods
+- Why Methods are Used
+- Method Syntax
+- public, static, void
+- Method Calling
+- Execution Flow
+- One Method Calling Another Method
+- Parameters
+- Arguments
+- Parameter vs Argument
+
 ## 👩‍💻 Author
 
 **Bhumi Jain**
